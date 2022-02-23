@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'pxlite'
-  s.version = '0.2.0'
+  s.version = '0.2.1'
   s.summary = 'A light-weight version of the Polyrex gem. Intended for traversing nested records 3 levels deep or deeper'
   s.authors = ['James Robertson']
   s.files = Dir['lib/pxlite.rb']
